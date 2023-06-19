@@ -1,0 +1,4 @@
+drivewheel,carwidth,enginesize,citympg,highwaympg,carbody,horsepower,price,CarName,Linear Regression
+4wd fwd rwd,continuous,continuous,continuous,continuous,convertible hardtop hatchback sedan wagon,continuous,continuous,string,continuous
+,,,,,,,class,meta,meta
+fwd,66.5,181.0,17.0,22.0,wagon,152.0,14399.0,nissan fuga,18504.616287092227
